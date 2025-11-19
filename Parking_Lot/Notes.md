@@ -30,4 +30,8 @@
   - Charge based on parking time
 
 ## Step 2: Core objects
+<img width="2150" height="816" alt="Screenshot 2025-11-19 084906" src="https://github.com/user-attachments/assets/7fb838f2-9db6-4b6e-9939-33406f77f14a" />
+
+
+
 
