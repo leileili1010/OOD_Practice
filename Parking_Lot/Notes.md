@@ -53,7 +53,7 @@ Parking lot (think like the admin)
 
 ## Step 5: Correctness
 
-```UML
+```mermaid
 classDiagram
     class ParkingLot {
         - List~Level~ levels
@@ -134,8 +134,6 @@ classDiagram
     Vehicle <|-- Car
     Vehicle <|-- Motorcycle
     Vehicle <|-- Bus
-
-
 ```
 
 
