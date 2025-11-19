@@ -49,6 +49,7 @@ Parking lot (think like the admin)
 
 ## Step 4: Class
 
+<img width="958" height="537" alt="image" src="https://github.com/user-attachments/assets/dce241e9-ce92-4993-8cd1-99eb9604b462" />
 
 
 
