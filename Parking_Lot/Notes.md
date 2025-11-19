@@ -32,6 +32,25 @@
 ## Step 2: Core objects
 <img width="2150" height="816" alt="Screenshot 2025-11-19 084906" src="https://github.com/user-attachments/assets/7fb838f2-9db6-4b6e-9939-33406f77f14a" />
 
+## Step 3: Use cases
+
+Parking lot (think like the admin)
+- get available spot count (serve)
+  - we have different levels, consider use level class
+- park vehicle (serve)
+  - check the size of vehicle
+  - find an available spot for this vehicle
+  - vehicle takes the spot
+- clear spot (check out)
+  - Parking lot find the spot to clear, consider using receipt(ticket class)
+  - Update spot to be available
+- calculate price (check out)
+  - when clearing spot, calculate price to check out
+
+## Step 4: Class
+
+
+
 
 
 
