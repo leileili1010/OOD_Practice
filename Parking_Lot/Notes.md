@@ -53,7 +53,7 @@ Parking lot (think like the admin)
 
 ## Step 5: Correctness
 
-```mermaind
+```UML
 classDiagram
     class ParkingLot {
         - List~Level~ levels
